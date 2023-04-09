@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab221110_Mid+Intent</string>
+    <string name="title">星座查詢</string>
+    <string name="show">顯示朋友清單</string>
+    <string name="hide">隱藏朋友清單</string>
+    <string name="show_list">顯示星座清單</string>
+    <string name="hide_list">隱藏星座清單</string>
+    <string name="history">查詢紀錄</string>
+</resources>

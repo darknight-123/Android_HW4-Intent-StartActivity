@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ttu.cse.lab221110_midintent.MainActivity">
+
+    <item android:id="@+id/showlist"
+        android:title="@string/show_list"
+        android:visible="false"
+        app:showAsAction="never"/>
+    <item android:id="@+id/hidelist"
+        android:title="@string/hide_list"
+        android:visible="true"
+        app:showAsAction="never"/>
+</menu>
